@@ -50,19 +50,6 @@ Explore the interactive results here:
 - Source: [NASA FIRMS - MODIS](https://firms.modaps.eosdis.nasa.gov/download/)
 - Features used: `brightness`, `frp`
 
-## 👥 Contributors
-
-- Chin Bao Sheng  
-- Kok Ka Ket  
-- Wong Jun Wei  
-- Wong Rui Sean  
-
-## 📌 Future Work
-
-- Include spatial and temporal features
-- Add real-world validation using labeled fire data
-- Test scalability on larger or streaming datasets
-
 ## 📄 License
 
 This project is for academic and research purposes. Contact the authors for reuse or extension.
